@@ -7,3 +7,7 @@ vibrant
 video call
 dark mode
 three adition
+
+payment option
+send money
+receive money
